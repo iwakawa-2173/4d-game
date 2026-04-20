@@ -42,7 +42,7 @@
 **Формула перспективной проекции вдоль оси w:**
 
 $$
-\operatorname{proj}_w(\mathbf{p}) = \left( \frac{x}{1 - w/d_w},\; \frac{y}{1 - w/d_w},\; \frac{z}{1 - w/d_w} \right)
+\proj_w(\mathbf{p}) = \left( \frac{x}{1 - w/d_w},\; \frac{y}{1 - w/d_w},\; \frac{z}{1 - w/d_w} \right)
 $$
 
 **Код:**
